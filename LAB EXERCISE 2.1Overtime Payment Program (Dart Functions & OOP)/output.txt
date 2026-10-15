@@ -1,0 +1,6 @@
+=== Overtime Payment Program ===
+Employee Name: Ali
+Basic Salary: $4500.0 USD
+Overtime Pay: $570.0 USD
+--------------------------------
+Total Salary = $5070.0 USD
